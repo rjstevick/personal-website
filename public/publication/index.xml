@@ -2,39 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Rebecca J. Stevick</title>
-    <link>/publication/</link>
+    <link>/www.rebeccastevick.com/publication/</link>
     <description>Recent content in Publications on Rebecca J. Stevick</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy Rebecca Stevick `{year}`</copyright>
     <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/www.rebeccastevick.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment</title>
-      <link>/publication/fmicb-2019/</link>
+      <link>/www.rebeccastevick.com/publication/fmicb-2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fmicb-2019/</guid>
+      <guid>/www.rebeccastevick.com/publication/fmicb-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From the raw bar to the bench: Bivalves as models for human health</title>
-      <link>/publication/dci-2018/</link>
+      <link>/www.rebeccastevick.com/publication/dci-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dci-2018/</guid>
+      <guid>/www.rebeccastevick.com/publication/dci-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of 16S Genomic Data using Graphical Databases</title>
-      <link>/publication/acm-bcb2017/</link>
+      <link>/www.rebeccastevick.com/publication/acm-bcb2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/acm-bcb2017/</guid>
+      <guid>/www.rebeccastevick.com/publication/acm-bcb2017/</guid>
       <description></description>
     </item>
     

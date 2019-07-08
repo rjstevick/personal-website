@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebecca J. Stevick</title>
-    <link>/</link>
+    <link>/www.rebeccastevick.com/</link>
     <description>Recent content on Rebecca J. Stevick</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy Rebecca Stevick `{year}`</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/www.rebeccastevick.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>/www.rebeccastevick.com/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/example/example1/</guid>
+      <guid>/www.rebeccastevick.com/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +50,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>/www.rebeccastevick.com/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/example/example2/</guid>
+      <guid>/www.rebeccastevick.com/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -85,10 +86,10 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talks/example/</link>
+      <link>/www.rebeccastevick.com/talks/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/talks/example/</guid>
+      <guid>/www.rebeccastevick.com/talks/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -109,19 +110,19 @@
     
     <item>
       <title>Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment</title>
-      <link>/publication/fmicb-2019/</link>
+      <link>/www.rebeccastevick.com/publication/fmicb-2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fmicb-2019/</guid>
+      <guid>/www.rebeccastevick.com/publication/fmicb-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>/www.rebeccastevick.com/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>/www.rebeccastevick.com/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -181,10 +182,10 @@ rm Untitled.md
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>/www.rebeccastevick.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example/</guid>
+      <guid>/www.rebeccastevick.com/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -363,19 +364,19 @@ $$&lt;/p&gt;
     
     <item>
       <title>From the raw bar to the bench: Bivalves as models for human health</title>
-      <link>/publication/dci-2018/</link>
+      <link>/www.rebeccastevick.com/publication/dci-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dci-2018/</guid>
+      <guid>/www.rebeccastevick.com/publication/dci-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estuarine acidification and oyster health</title>
-      <link>/project/estuarineacidification/</link>
+      <link>/www.rebeccastevick.com/project/estuarineacidification/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/estuarineacidification/</guid>
+      <guid>/www.rebeccastevick.com/project/estuarineacidification/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 
 &lt;p&gt;Check out our web app that describes the environmental conditions and oyster characteristics in Narragansett Bay: &lt;a href=&#34;google.com&#34;&gt;&lt;a href=&#34;https://rjstevick.shinyapps.io/nbay_shinyapp/&#34; target=&#34;_blank&#34;&gt;https://rjstevick.shinyapps.io/nbay_shinyapp/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -386,20 +387,20 @@ $$&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>/www.rebeccastevick.com/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>/privacy/</guid>
+      <guid>/www.rebeccastevick.com/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nutrient enrichment and oyster microbiomes</title>
-      <link>/project/denitrification/</link>
+      <link>/www.rebeccastevick.com/project/denitrification/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/denitrification/</guid>
+      <guid>/www.rebeccastevick.com/project/denitrification/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 
 &lt;p&gt;This work was supported by RI SeaGrant, the URI Coastal Institute, The Nature Conservancy of RI - TNC Global Marine Team, NSF Graduate Research Fellowship 1244657 to RJS, and the Blount Family Foundation. This material is based upon work conducted at a Rhode Island NSF EPSCoR research facility, the Genomics and Sequencing Center, supported in part by the National Science Foundation EPSCoR Cooperative Agreement #OIA-1655221.&lt;/p&gt;
@@ -408,19 +409,19 @@ $$&lt;/p&gt;
     
     <item>
       <title>Analysis of 16S Genomic Data using Graphical Databases</title>
-      <link>/publication/acm-bcb2017/</link>
+      <link>/www.rebeccastevick.com/publication/acm-bcb2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/acm-bcb2017/</guid>
+      <guid>/www.rebeccastevick.com/publication/acm-bcb2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oyster-associated microbial transcriptomes</title>
-      <link>/project/transcriptmining/</link>
+      <link>/www.rebeccastevick.com/project/transcriptmining/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/transcriptmining/</guid>
+      <guid>/www.rebeccastevick.com/project/transcriptmining/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 
 &lt;p&gt;This work was supported by NSF Graduate Research Fellowship 1244657 to RJS. This material is based upon work conducted at a Rhode Island NSF EPSCoR research facility, the Genomics and Sequencing Center, supported in part by the National Science Foundation EPSCoR Cooperative Agreements 0554548, EPS-1004057, and OIA-1655221.&lt;/p&gt;
@@ -429,10 +430,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/www.rebeccastevick.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/www.rebeccastevick.com/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -525,8 +526,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -538,8 +539,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -551,8 +552,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -564,8 +565,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -577,8 +578,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -590,8 +591,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -603,8 +604,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -616,8 +617,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;/www.rebeccastevick.com/www.rebeccastevick.com/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -660,15 +661,15 @@ $$&lt;/p&gt;
     
     <item>
       <title>Probiotics in oyster larviculture</title>
-      <link>/project/probiotics/</link>
+      <link>/www.rebeccastevick.com/project/probiotics/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/probiotics/</guid>
+      <guid>/www.rebeccastevick.com/project/probiotics/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 
 &lt;p&gt;Related publications:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;/publication/fmicb-2019/&#34;&gt;Stevick, R.J., Sohn, S., Nelson, D.R., Rowley, D.C., Tammi, K., Smolowitz, R., Lundgren, K.M., Post, A.F. and Gomez-Chiarri, M. (2019). Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment. Frontiers in Microbiology 10, 1060. doi:10.3389/FMICB.2019.01060&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/www.rebeccastevick.com/publication/fmicb-2019/&#34;&gt;Stevick, R.J., Sohn, S., Nelson, D.R., Rowley, D.C., Tammi, K., Smolowitz, R., Lundgren, K.M., Post, A.F. and Gomez-Chiarri, M. (2019). Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment. Frontiers in Microbiology 10, 1060. doi:10.3389/FMICB.2019.01060&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This work was supported by NSF Graduate Research Fellowship 1244657 to RJS, USDA AFRI 2016-67016-24905 and USDA NRAC 2258-Z55106 to DCR, DRN, and MG-C. This material is based upon work conducted at a Rhode Island NSF EPSCoR research facility, the Genomics and Sequencing Center, supported in part by the National Science Foundation EPSCoR Cooperative Agreements 0554548, EPS-1004057, and OIA-1655221.&lt;/p&gt;
 </description>
@@ -676,10 +677,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/www.rebeccastevick.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/www.rebeccastevick.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -716,7 +717,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/www.rebeccastevick.com/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

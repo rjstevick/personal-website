@@ -1,4 +1,5 @@
 +++
+
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -59,5 +60,6 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
 +++
 
