@@ -14,7 +14,7 @@ baseurl = "https://www.rebeccastevick.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Copyright Rebecca Stevick `{year}`"
+copyright = "Copyright Rebecca Stevick `{month}` `{year}`"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
