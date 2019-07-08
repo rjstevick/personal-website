@@ -15,7 +15,7 @@ image:
   preview_only: false
 publication: Proceedings of ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
 publication_types:
-- "1"
+- "2"
 publishDate: "2019-08-01T00:00:00Z"
 title: Analysis of 16S Genomic Data using Graphical Databases
 url_pdf: 'files/p599-ahern.pdf'
