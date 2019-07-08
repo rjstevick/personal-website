@@ -31,7 +31,7 @@
   <meta name="description" content="Since the Human Genome Project was completed in 2003, data scientists have developed algorithms in order to store and query high volumes of genomic data. The most common data storage techniques employed in these algorithms are flat files or relational databases. While sophisticated indexing techniques can accelerate queries, an alternative is to store biological sequence data directly in a way that supports efficient queries. Here we introduce a new algorithm that aims to compress the redundant information and improve the performance of query speed with the help of graphical databases, which have been commercially available since the mid-late 2000s. A graphical database stores information using nodes and relationships (edges). Our approach is to identify sub-sequences that are common among many sequences, and to store these as common nodes in the graph database. This is accomplished for sequencing data as follows; split the whole sequence into k-mers; if a given k-mer is common to enough sequences, then it is labeled as a common segment; if a k-mer is unique (or common to too few sequences), then it is labeled as a single segment. Thus, common nodes and single nodes are formed from common segments and single segments, respectively. These two kinds of nodes are connected by edges in the graphical database; this allows each original sequences to be reconstructed by following edges in the graph. This graphical database model allows for fast taxonomic queries of 16S rDNA. When queried, the database can first attempt to find common nodes that match the query sequence, and subsequently follow edges to single nodes to refine the search. This approach is analogous to that of compressive genomics, except that the compression is implicit in the graphical database storage model. Beyond simple sequence queries, this graphical database representation also supports variability analysis, which identifies highly variable vs. conserved regions of 16S sequence. Regions of low variability correspond to common nodes, while regions of high variability correspond to a variety of paths through single nodes. Benchmarking of sequence search indicates that query time in graphical databases is significantly faster than in flat files or relational databases. Implementation of graphical databases in genomic data analysis will allow for accelerated search, and may lend itself to other forms of efficient analysis, such as tetramer frequency analysis, which is useful in metagenomic binning.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/www.rebeccastevick.com/publication/acm-bcb2017/">
+  <link rel="alternate" hreflang="en-us" href="/publication/acm-bcb2017/">
 
   
 
@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/www.rebeccastevick.com/css/academic.min.edb1003ed6e6506ace36eacdf2b531b3.css">
+  <link rel="stylesheet" href="/css/academic.min.edb1003ed6e6506ace36eacdf2b531b3.css">
 
   
 
@@ -92,11 +92,11 @@
 
   
 
-  <link rel="manifest" href="/www.rebeccastevick.com/site.webmanifest">
-  <link rel="icon" type="image/png" href="/www.rebeccastevick.com/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/www.rebeccastevick.com/img/icon-192.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/www.rebeccastevick.com/publication/acm-bcb2017/">
+  <link rel="canonical" href="/publication/acm-bcb2017/">
 
   
   
@@ -110,10 +110,10 @@
   <meta property="twitter:creator" content="@rjstevick">
   
   <meta property="og:site_name" content="Rebecca J. Stevick">
-  <meta property="og:url" content="/www.rebeccastevick.com/publication/acm-bcb2017/">
+  <meta property="og:url" content="/publication/acm-bcb2017/">
   <meta property="og:title" content="Analysis of 16S Genomic Data using Graphical Databases | Rebecca J. Stevick">
-  <meta property="og:description" content="Since the Human Genome Project was completed in 2003, data scientists have developed algorithms in order to store and query high volumes of genomic data. The most common data storage techniques employed in these algorithms are flat files or relational databases. While sophisticated indexing techniques can accelerate queries, an alternative is to store biological sequence data directly in a way that supports efficient queries. Here we introduce a new algorithm that aims to compress the redundant information and improve the performance of query speed with the help of graphical databases, which have been commercially available since the mid-late 2000s. A graphical database stores information using nodes and relationships (edges). Our approach is to identify sub-sequences that are common among many sequences, and to store these as common nodes in the graph database. This is accomplished for sequencing data as follows; split the whole sequence into k-mers; if a given k-mer is common to enough sequences, then it is labeled as a common segment; if a k-mer is unique (or common to too few sequences), then it is labeled as a single segment. Thus, common nodes and single nodes are formed from common segments and single segments, respectively. These two kinds of nodes are connected by edges in the graphical database; this allows each original sequences to be reconstructed by following edges in the graph. This graphical database model allows for fast taxonomic queries of 16S rDNA. When queried, the database can first attempt to find common nodes that match the query sequence, and subsequently follow edges to single nodes to refine the search. This approach is analogous to that of compressive genomics, except that the compression is implicit in the graphical database storage model. Beyond simple sequence queries, this graphical database representation also supports variability analysis, which identifies highly variable vs. conserved regions of 16S sequence. Regions of low variability correspond to common nodes, while regions of high variability correspond to a variety of paths through single nodes. Benchmarking of sequence search indicates that query time in graphical databases is significantly faster than in flat files or relational databases. Implementation of graphical databases in genomic data analysis will allow for accelerated search, and may lend itself to other forms of efficient analysis, such as tetramer frequency analysis, which is useful in metagenomic binning."><meta property="og:image" content="/www.rebeccastevick.com/publication/acm-bcb2017/featured.jpg">
-  <meta property="twitter:image" content="/www.rebeccastevick.com/publication/acm-bcb2017/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Since the Human Genome Project was completed in 2003, data scientists have developed algorithms in order to store and query high volumes of genomic data. The most common data storage techniques employed in these algorithms are flat files or relational databases. While sophisticated indexing techniques can accelerate queries, an alternative is to store biological sequence data directly in a way that supports efficient queries. Here we introduce a new algorithm that aims to compress the redundant information and improve the performance of query speed with the help of graphical databases, which have been commercially available since the mid-late 2000s. A graphical database stores information using nodes and relationships (edges). Our approach is to identify sub-sequences that are common among many sequences, and to store these as common nodes in the graph database. This is accomplished for sequencing data as follows; split the whole sequence into k-mers; if a given k-mer is common to enough sequences, then it is labeled as a common segment; if a k-mer is unique (or common to too few sequences), then it is labeled as a single segment. Thus, common nodes and single nodes are formed from common segments and single segments, respectively. These two kinds of nodes are connected by edges in the graphical database; this allows each original sequences to be reconstructed by following edges in the graph. This graphical database model allows for fast taxonomic queries of 16S rDNA. When queried, the database can first attempt to find common nodes that match the query sequence, and subsequently follow edges to single nodes to refine the search. This approach is analogous to that of compressive genomics, except that the compression is implicit in the graphical database storage model. Beyond simple sequence queries, this graphical database representation also supports variability analysis, which identifies highly variable vs. conserved regions of 16S sequence. Regions of low variability correspond to common nodes, while regions of high variability correspond to a variety of paths through single nodes. Benchmarking of sequence search indicates that query time in graphical databases is significantly faster than in flat files or relational databases. Implementation of graphical databases in genomic data analysis will allow for accelerated search, and may lend itself to other forms of efficient analysis, such as tetramer frequency analysis, which is useful in metagenomic binning."><meta property="og:image" content="/publication/acm-bcb2017/featured.jpg">
+  <meta property="twitter:image" content="/publication/acm-bcb2017/featured.jpg"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-08-01T00:00:00&#43;00:00">
   
@@ -173,7 +173,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/www.rebeccastevick.com/">Rebecca J. Stevick</a>
+      <a class="navbar-brand" href="/">Rebecca J. Stevick</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -212,7 +212,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/www.rebeccastevick.com/#about"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -234,7 +234,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/www.rebeccastevick.com/project"><span>Research</span></a>
+          <a class="nav-link " href="/project"><span>Research</span></a>
         </li>
 
         
@@ -256,36 +256,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/www.rebeccastevick.com/publication"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/www.rebeccastevick.com/#teaching"><span>Teaching & Outreach</span></a>
+          <a class="nav-link  active" href="/publication"><span>Publications</span></a>
         </li>
 
         
@@ -314,7 +285,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/www.rebeccastevick.com/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#teaching"><span>Teaching & Outreach</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -336,7 +336,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/www.rebeccastevick.com/files/CV.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/files/CV.pdf"><span>CV</span></a>
         </li>
 
         
@@ -422,7 +422,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/www.rebeccastevick.com/authors/olivia-m.-ahern/">Olivia M. Ahern</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/www.rebeccastevick.com/authors/brebecca-j.-stevick/b/"><b>Rebecca J. Stevick</b></a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/www.rebeccastevick.com/authors/li-yuan/">Li Yuan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/www.rebeccastevick.com/authors/noah-m.-daniels/">Noah M. Daniels</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/olivia-m.-ahern/">Olivia M. Ahern</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/brebecca-j.-stevick/b/"><b>Rebecca J. Stevick</b></a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/li-yuan/">Li Yuan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/noah-m.-daniels/">Noah M. Daniels</a></span>
 
   </div>
   
@@ -461,7 +461,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/www.rebeccastevick.com/publication/acm-bcb2017/&amp;text=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/acm-bcb2017/&amp;text=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -474,7 +474,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/www.rebeccastevick.com/publication/acm-bcb2017/&amp;t=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/acm-bcb2017/&amp;t=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -487,7 +487,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases&amp;body=/www.rebeccastevick.com/publication/acm-bcb2017/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases&amp;body=/publication/acm-bcb2017/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -500,7 +500,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/www.rebeccastevick.com/publication/acm-bcb2017/&amp;title=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/acm-bcb2017/&amp;title=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -513,7 +513,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases%20/www.rebeccastevick.com/publication/acm-bcb2017/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases%20/publication/acm-bcb2017/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -526,7 +526,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/www.rebeccastevick.com/publication/acm-bcb2017/&amp;title=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/acm-bcb2017/&amp;title=Analysis%20of%2016S%20Genomic%20Data%20using%20Graphical%20Databases" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -570,7 +570,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/www.rebeccastevick.com/files/p599-ahern.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/p599-ahern.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -602,7 +602,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 319px;">
   <div style="position: relative">
-    <img src="/www.rebeccastevick.com/publication/acm-bcb2017/featured_huc4018da3b425991c733c8ddd97ecedde_61300_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    <img src="/publication/acm-bcb2017/featured_huc4018da3b425991c733c8ddd97ecedde_61300_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
     
   </div>
 </div>
@@ -625,7 +625,7 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/www.rebeccastevick.com/publication/#1">
+            <a href="/publication/#1">
               Conference paper
             </a>
             
@@ -685,7 +685,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/www.rebeccastevick.com/authors/olivia-m.-ahern/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/olivia-m.-ahern/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -749,7 +749,7 @@
     
     
     <script>
-      const search_index_filename = "/www.rebeccastevick.com/index.json";
+      const search_index_filename = "/index.json";
       const i18n = {
         'placeholder': "Search...",
         'results': "results found",
@@ -805,7 +805,7 @@
     
     
     
-    <script src="/www.rebeccastevick.com/js/academic.min.2e38db8060788d4ad8568291459b9649.js"></script>
+    <script src="/js/academic.min.2e38db8060788d4ad8568291459b9649.js"></script>
 
     
 
@@ -819,12 +819,12 @@
     <footer class="site-footer">
   
   <p class="powered-by">
-    <a href="/www.rebeccastevick.com/privacy/">Privacy Policy</a>
+    <a href="/privacy/">Privacy Policy</a>
   </p>
   
 
   <p class="powered-by">
-    &amp;copy Rebecca Stevick <code>2019</code> &middot; 
+    <code>&amp;copy;</code> Rebecca Stevick <code>2019</code> &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
