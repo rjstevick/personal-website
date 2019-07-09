@@ -20,9 +20,14 @@
   weight = 40
   
 [[main]]
-  name = "Teaching & Outreach"
+  name = "Teaching"
   url = "#teaching"
   weight = 50
+  
+[[main]]
+  name = "Outreach"
+  url = "#outreachmaterials"
+  weight = 55
 
 [[main]]
   name = "Contact"

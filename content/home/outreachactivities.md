@@ -47,13 +47,6 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  title = "R ShinyApp of Oysters in Narragansett Bay"
-  organization = "Web app for outreach"
-  date_start = "2019-04-01"
-  date_end = ""
-  description = """The app is hosted at: <a href="google.com">https://rjstevick.shinyapps.io/nbay_shinyapp/</a>"""
-
-[[item]]
   title = "Chowder & Marching Student Society"
   organization = "Communications chair and Webmaster"
   date_start = "2016-09-01"
@@ -101,13 +94,5 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = ""
-  
-[[item]]
-  title = "Oyster Anatomy Puzzle"
-  organization = """Outreach tool created to show the organs of an oyster and how they fit together. It was printed on a 3'x4' vinyl poster and is used at various outreach events."""
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """Access the materials here: <a href="files/oysteranatomypuzzle_3636.pdf">Oyster Anatomy puzzle</a>"""
-
 
 +++
