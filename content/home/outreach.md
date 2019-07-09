@@ -104,10 +104,10 @@ date_format = "Jan 2006"
   
 [[item]]
   title = "Oyster Anatomy Puzzle"
-  organization = "Outreach tool created to show the organs of an oyster and how they fit together. It was printed on a 3'x4' vinyl poster and is used at various outreach events."
+  organization = """Outreach tool created to show the organs of an oyster and how they fit together. It was printed on a 3'x4' vinyl poster and is used at various outreach events."""
   date_start = "2018-09-01"
   date_end = ""
-  description = "Access the materials here: <a href="files/oysteranatomypuzzle_3636.pdf">Oyster Anatomy puzzle</a>"
+  description = """Access the materials here: <a href="files/oysteranatomypuzzle_3636.pdf">Oyster Anatomy puzzle</a>"""
 
 
 +++
