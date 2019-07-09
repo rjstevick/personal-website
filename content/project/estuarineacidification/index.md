@@ -3,6 +3,8 @@ date: "2018-09-01T00:00:00Z"
 external_link: ""
 image:
   focal_point: Smart
+  caption: 'A view of Providence, RI from Bold Point Park'
+
 links:
 summary: 'Understanding how oyster microbiomes and health change along a eutropication gradient.'
 tags:

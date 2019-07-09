@@ -3,6 +3,7 @@ date: "2015-09-01T00:00:00Z"
 external_link: ""
 image:
   focal_point: Smart
+  caption: 'Larval eastern oysters (_Crassostrea virginica_). Photo by Tejashree Modak'
 links:
 summary: 'Exploring how probiotic treament alters oyster hatchery microbiomes.'
 tags:
