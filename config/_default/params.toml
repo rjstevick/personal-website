@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rstevick(at)uri.edu"
+email = "rstevick@uri.edu"
 phone = ""
 address = "Coastal Institute Building, 220 S Ferry Rd, Narragansett, RI, USA"
 
