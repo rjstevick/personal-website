@@ -17,7 +17,7 @@ baseurl = "https://www.rebeccastevick.com/"
 copyright = "&copy; Rebecca Stevick {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-143550874-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
