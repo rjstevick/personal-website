@@ -1,9 +1,10 @@
 +++
-# Outreach widget.
+
+# Outreach activities widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 96  # Order that this section will appear.
+weight = 97  # Order that this section will appear.
 
 title = "Outreach Activities"
 subtitle = ""
@@ -17,6 +18,7 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 
 [[item]]
   title = "National Ocean Sciences Bowl"
