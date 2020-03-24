@@ -17,7 +17,7 @@ interests:
 - Bioinformatics
 name: Rebecca J. Stevick
 organizations:
-- name: Institut Pasteur, Genetics of Biofilms Unit
+- name: Institut Pasteur
   url: ""
 role: Postdoctoral Researcher
 social:

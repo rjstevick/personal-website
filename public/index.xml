@@ -109,6 +109,15 @@
     </item>
     
     <item>
+      <title>Oyster-Associated Microbial Community Dynamics</title>
+      <link>/publication/dissertation-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dissertation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment</title>
       <link>/publication/fmicb-2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
@@ -386,6 +395,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Oyster Anatomy Puzzle</title>
+      <link>/outreachmaterials/oysteranatomy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/outreachmaterials/oysteranatomy/</guid>
+      <description>&lt;p&gt;This image and the pieces were printed on a 3&amp;rsquo;x4&amp;rsquo; vinyl poster and is used at various outreach events.&lt;/p&gt;
+
+&lt;p&gt;Access the materials here: &lt;a href=&#34;files/oysteranatomypuzzle_3636.pdf&#34;&gt;Oyster Anatomy puzzle&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -404,6 +425,18 @@ $$&lt;/p&gt;
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 
 &lt;p&gt;This work was supported by RI SeaGrant, the URI Coastal Institute, The Nature Conservancy of RI - TNC Global Marine Team, NSF Graduate Research Fellowship 1244657 to RJS, and the Blount Family Foundation. This material is based upon work conducted at a Rhode Island NSF EPSCoR research facility, the Genomics and Sequencing Center, supported in part by the National Science Foundation EPSCoR Cooperative Agreement #OIA-1655221.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R ShinyApp of Oysters in Narragansett Bay</title>
+      <link>/outreachmaterials/shinyapp_nbayoysters/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/outreachmaterials/shinyapp_nbayoysters/</guid>
+      <description>&lt;p&gt;Check out our web app that describes the environmental conditions and oyster characteristics in Narragansett Bay: &lt;a href=&#34;https://rjstevick.shinyapps.io/nbay_shinyapp/&#34;&gt;https://rjstevick.shinyapps.io/nbay_shinyapp/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The source code can be found here: &lt;a href=&#34;https://github.com/rjstevick/NarragansettBayShinyApp/&#34;&gt;https://github.com/rjstevick/NarragansettBayShinyApp/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
