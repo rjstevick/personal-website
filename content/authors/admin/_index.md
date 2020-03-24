@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Oceanography
     institution: University of Rhode Island
-    year: expected Dec 2019
+    year: 2019
   - course: BSc in Bioengineering
     institution: University of Maryland, College Park
     year: 2015
@@ -17,9 +17,9 @@ interests:
 - Bioinformatics
 name: Rebecca J. Stevick
 organizations:
-- name: Graduate School of Oceanography, University of Rhode Island
+- name: Institut Pasteur, Genetics of Biofilms Unit
   url: ""
-role: PhD Candidate
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,9 +36,8 @@ social:
 superuser: true
 ---
 
+Rebecca is a postdoctoral research associate at the <a href="https://www.pasteur.fr/en">Institut Pasteur</a> in the <a href="https://research.pasteur.fr/en/team/genetics-of-biofilms/">Biofilm Genetics Unit</a> within the Microbiology Department. 
 
-Rebecca is a PhD candidate and NSF Predoctoral Fellow at the University of Rhode Island <a href="https://web.uri.edu/gso/">Graduate School of Oceanography</a>, with a focus on biological oceanography and microbial ecology. 
+Her <a href="#projects">current research</a> is focused on microbial ecology within a gnotobiotic zebrafish model to determine mechanisms of colonization resistance. She studies this with molecular biology, bioinformatics, and <i>in vivo</i> manipulation assays. During her PhD, she studied oyster-associated microbiomes and how they are affected by estuarine acidification, nutrient loading, disease, or probiotics. 
 
-Her <a href="#projects">current research</a> focuses on oyster-associated microbiomes and how they are affected by estuarine acidification, nutrient loading, disease, or probiotics. She studies this with molecular biology, bioinformatics, and statistical modelling applied to aquaculture or field experiments. She is interested in how bacteria in oysters contribute to their resilience and ability to provide ecosystem services.
-
-For more information, please see her CV: <a href="files/CV.pdf">Stevick_CV (updated 7/6/2019)</a> 
+For more information, please see her CV: <a href="files/CV.pdf">Stevick_CV (updated 3/24/2020)</a> 
