@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2018-01-01"
   date_end = "2018-05-01"
-  description = """General education class with emphasis on human impacts on the ocean: 80 students. <br> Guest lecture: “Sustainable Aquaculture”"""
+  description = """General education class with emphasis on human impacts on the ocean: 80 students. <br> Guest lecture: Sustainable Aquaculture"""
   
 [[item]]
   organization = "AFS 105G Food from the Sea"
