@@ -14,6 +14,3 @@ url_slides: ""
 url_video: ""
 ---
 
-Coming soon!
-
-This work was supported by NSF Graduate Research Fellowship 1244657 to RJS. This material is based upon work conducted at a Rhode Island NSF EPSCoR research facility, the Genomics and Sequencing Center, supported in part by the National Science Foundation EPSCoR Cooperative Agreements 0554548, EPS-1004057, and OIA-1655221.
