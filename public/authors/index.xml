@@ -103,16 +103,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Rebecca is a microbial ecologist who combines bioinformatics, molecular biology, and genetics to understand ecological processes in aquatic environments. She researches how host and environmental conditions affect  microbial interactions, especially in marine and aquatic diseases.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Adrienne N. Tracy</title>
       <link>/authors/adrienne-n.-tracy/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -236,6 +226,16 @@
       
       <guid>/authors/olivia-m.-ahern/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Rebecca is a microbial ecologist who combines bioinformatics, molecular biology, and genetics to understand ecological processes in aquatic environments. She researches how host and environmental conditions affect  microbial interactions, especially in marine and aquatic diseases.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -11,7 +11,7 @@ title = "About"
 [design.background]
 
 # Background color.
-color = "#CBEAFD"
+color = "#CED3EE"
 
 # Text color (true=light or false=dark).
 # text_color_light = true  

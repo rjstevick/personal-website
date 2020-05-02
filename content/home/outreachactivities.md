@@ -39,13 +39,13 @@ date_format = "Jan 2006"
   organization = "Organizer and Webmaster"
   date_start = "2017-06-01"
   date_end = "2019-07-01"
-  description = "Presenter: “The Microbial Ocean” February 2018"
+  description = "Presenter: The Microbial Ocean, February 2018"
 
 [[item]]
   title = "Letters to a Pre-Scientist pen pal"
   organization = "Pen Pal"
   date_start = "2018-09-01"
-  date_end = "2019-05-01"
+  date_end = "2020-05-01"
   description = ""
   
 [[item]]
