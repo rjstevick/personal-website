@@ -14,7 +14,7 @@ url_slides: ""
 url_video: ""
 ---
 
-We have partnered with oyster hatcheries across the east coast of the United States to evaulate how probiotic addition affects the hatchery microbiome and oyster health. 
+We have partnered with oyster hatcheries across the east coast of the United States to evaulate how probiotic addition affects the hatchery microbiome and oyster health.
 
 GitHub repository:
 
