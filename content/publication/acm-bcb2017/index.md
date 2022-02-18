@@ -22,5 +22,3 @@ url_pdf: 'files/p599-ahern.pdf'
 citation: Ahern, O. M., **Stevick, R. J.**, Yuan, L., & Daniels, N. M. (2017). Analysis of 16S Genomic Data using Graphical Databases. In Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (pp. 599-599). ACM.
 
 ---
-
-

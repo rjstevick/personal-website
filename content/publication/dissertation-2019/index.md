@@ -19,6 +19,3 @@ url_pdf: 'files/StevickDissertation2019.pdf'
 citation: '**Stevick, R.J.**. "OYSTER-ASSOCIATED MICROBIAL COMMUNITY DYNAMICS" (2019). Open Access Dissertations. Paper 1089. https://digitalcommons.uri.edu/oa_diss/1089'
 
 ---
-
-
-

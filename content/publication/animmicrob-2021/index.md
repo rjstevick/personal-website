@@ -17,7 +17,7 @@ publication_types:
 - "2"
 publishDate: "2021-01-06T00:00:00Z"
 title: 'Functional plasticity in oyster gut microbiomes along a eutrophication gradient in an urbanized estuary'
-url_pdf: 'Stevicketal2021-animmicrob.pdf'
+url_pdf: 'files/Stevicketal2021_animmicrob.pdf'
 citation: '**Stevick, R.J.**, Post, A.F. & Gómez-Chiarri, M. Functional plasticity in oyster gut microbiomes along a eutrophication gradient in an urbanized estuary. anim microbiome 3, 5 (2021). https://doi.org/10.1186/s42523-020-00066-0.'
 
 ---

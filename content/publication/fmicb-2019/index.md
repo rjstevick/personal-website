@@ -25,7 +25,7 @@ publication_types:
 - "2"
 publishDate: "2019-05-15T00:00:00Z"
 title: 'Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment'
-url_pdf: 'Stevicketal2019_fmicb-10-01060.pdf'
+url_pdf: 'files/Stevicketal2019_fmicb-10-01060.pdf'
 citation: '**Stevick, R.J.**, Sohn, S., Nelson, D.R., Rowley, D.C., Tammi, K., Smolowitz, R., Lundgren, K.M., Post, A.F. and Gomez-Chiarri, M. (2019). Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment. Frontiers in Microbiology 10, 1060. doi:10.3389/FMICB.2019.01060.
 '
 ---
