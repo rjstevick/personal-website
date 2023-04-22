@@ -24,6 +24,27 @@ color = "#CED3EE"
 
 
 [[item]]
+  organization = "ACS Chemical & Engineering News"
+  title = "Sweet science: Gluten-free piecrust and Pasteur’s patisserie"
+  url = "https://cen.acs.org/food/food-science/Sweet-science-Gluten-free-piecrust/101/i5"
+  date_start = "2023-02-05"
+
+
+[[item]]
+  organization = "RI NSF EPSCoR C-AIM Newsletter"
+  title = "Gut Feeling: Consortium researchers study the symbiotic relationships between oysters and bacteria living in their gut microbiome"
+  url = "https://express.adobe.com/page/lKKyphAzxe6rv/"
+  date_start = "2022-02-01"
+
+
+[[item]]
+  organization = "GSO Profiles"
+  title = "GSO Graduate Rebecca J. Stevick"
+  url = "https://web.uri.edu/gso/news/gso-profiles-rebecca-stevick/"
+  date_start = "2020-05-14"
+
+
+[[item]]
   organization = "URI Today"
   title = "2020 Graduates: URI student pairs doctoral research with completion of gigantic jigsaw puzzle"
   url = "https://today.uri.edu/news/2020-graduates-uri-student-pairs-doctoral-research-with-completion-of-gigantic-jigsaw-puzzle/"
@@ -43,14 +64,14 @@ color = "#CED3EE"
   url = "https://web.uri.edu/research-admin/files/URI_Research_Magazine_Momentum_Spring_2018_Melissa-McCarthy.pdf"
   date_start = "2018-05-01"
 
-  
+
 [[item]]
   organization = "Laurel Leader - The Baltimore Sun"
   title = "Oysters are the world for Rhode Island graduate student"
   url = "https://www.baltimoresun.com/ph-ll-ot-neighbors-0511-20170510-story.html"
   date_start = "2017-05-01"
 
-  
+
 [[item]]
   organization = "URI Today"
   title = "Three URI grad students win research grants from The Nature Conservancy"

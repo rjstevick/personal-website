@@ -2,64 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rebecca J. Stevick</title>
-    <link>/</link>
+    <link>https://www.rebeccastevick.com/</link>
     <description>Recent content on Rebecca J. Stevick</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Rebecca Stevick {year}</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.rebeccastevick.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Oyster-Associated Microbial Community Dynamics</title>
-      <link>/publication/dissertation-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <title>A review of how we assess denitrification in oyster habitats and proposed guidelines for future studies</title>
+      <link>https://www.rebeccastevick.com/publication/lomet-2021/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dissertation-2019/</guid>
+      <guid>https://www.rebeccastevick.com/publication/lomet-2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment</title>
-      <link>/publication/fmicb-2019/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <title>Microbiota-pathogen-host interactions in larval zebrafish</title>
+      <link>https://www.rebeccastevick.com/project/zebrafish/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fmicb-2019/</guid>
-      <description></description>
+      <guid>https://www.rebeccastevick.com/project/zebrafish/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>From the raw bar to the bench: Bivalves as models for human health</title>
-      <link>/publication/dci-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Functional plasticity in oyster gut microbiomes along a eutrophication gradient in an urbanized estuary</title>
+      <link>https://www.rebeccastevick.com/publication/animmicrob-2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dci-2018/</guid>
+      <guid>https://www.rebeccastevick.com/publication/animmicrob-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estuarine acidification and oyster health</title>
-      <link>/project/estuarineacidification/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://www.rebeccastevick.com/project/estuarineacidification/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/project/estuarineacidification/</guid>
-      <description>&lt;p&gt;Check out our web app that describes the environmental conditions and oyster characteristics in Narragansett Bay:
-&lt;a href=&#34;https://rjstevick.shinyapps.io/nbay_shinyapp/&#34; target=&#34;_blank&#34;&gt;https://rjstevick.shinyapps.io/nbay_shinyapp/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Github repositories:
+      <guid>https://www.rebeccastevick.com/project/estuarineacidification/</guid>
+      <description>&lt;p&gt;Github repositories:
 &lt;a href=&#34;https://github.com/rjstevick/NBayTNCoystersAnalysis&#34; target=&#34;_blank&#34;&gt;https://github.com/rjstevick/NBayTNCoystersAnalysis&lt;/a&gt;
 &lt;a href=&#34;https://github.com/rjstevick/AllNBayWildOystersCombined&#34; target=&#34;_blank&#34;&gt;https://github.com/rjstevick/AllNBayWildOystersCombined&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Related publications:&lt;br /&gt;
+&lt;a href=&#34;https://www.rebeccastevick.com/publication/animmicrob-2021/&#34;&gt;Stevick, R.J., Post, A.F. &amp;amp; Gómez-Chiarri, M. Functional plasticity in oyster gut microbiomes along a eutrophication gradient in an urbanized estuary. anim microbiome 3, 5 (2021). doi.org/10.1186/s42523-020-00066-0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out our web app that describes the environmental conditions and oyster characteristics in Narragansett Bay:
+&lt;a href=&#34;https://rjstevick.shinyapps.io/nbay_shinyapp/&#34; target=&#34;_blank&#34;&gt;https://rjstevick.shinyapps.io/nbay_shinyapp/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Oyster-Associated Microbial Community Dynamics</title>
+      <link>https://www.rebeccastevick.com/publication/dissertation-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rebeccastevick.com/publication/dissertation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment</title>
+      <link>https://www.rebeccastevick.com/publication/fmicb-2019/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rebeccastevick.com/publication/fmicb-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the raw bar to the bench: Bivalves as models for human health</title>
+      <link>https://www.rebeccastevick.com/publication/dci-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rebeccastevick.com/publication/dci-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oyster Anatomy Puzzle</title>
-      <link>/outreachmaterials/oysteranatomy/</link>
+      <link>https://www.rebeccastevick.com/outreachmaterials/oysteranatomy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/outreachmaterials/oysteranatomy/</guid>
+      <guid>https://www.rebeccastevick.com/outreachmaterials/oysteranatomy/</guid>
       <description>&lt;p&gt;This image and the pieces were printed on a 3&amp;rsquo;x4&amp;rsquo; vinyl poster and is used at various outreach events.&lt;/p&gt;
 
 &lt;p&gt;Access the materials here: &lt;a href=&#34;files/oysteranatomypuzzle_3636.pdf&#34;&gt;Oyster Anatomy puzzle&lt;/a&gt;&lt;/p&gt;
@@ -67,31 +98,21 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Nutrient enrichment and oyster microbiomes</title>
-      <link>/project/denitrification/</link>
+      <link>https://www.rebeccastevick.com/project/denitrification/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/denitrification/</guid>
+      <guid>https://www.rebeccastevick.com/project/denitrification/</guid>
       <description>&lt;p&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>R ShinyApp of Oysters in Narragansett Bay</title>
-      <link>/outreachmaterials/shinyapp_nbayoysters/</link>
+      <link>https://www.rebeccastevick.com/outreachmaterials/shinyapp_nbayoysters/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/outreachmaterials/shinyapp_nbayoysters/</guid>
+      <guid>https://www.rebeccastevick.com/outreachmaterials/shinyapp_nbayoysters/</guid>
       <description>&lt;p&gt;Check out our web app that describes the environmental conditions and oyster characteristics in Narragansett Bay: &lt;a href=&#34;https://rjstevick.shinyapps.io/nbay_shinyapp/&#34;&gt;https://rjstevick.shinyapps.io/nbay_shinyapp/&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The source code can be found here: &lt;a href=&#34;https://github.com/rjstevick/NarragansettBayShinyApp/&#34;&gt;https://github.com/rjstevick/NarragansettBayShinyApp/&lt;/a&gt;&lt;/p&gt;
@@ -100,29 +121,19 @@
     
     <item>
       <title>Analysis of 16S Genomic Data using Graphical Databases</title>
-      <link>/publication/acm-bcb2017/</link>
+      <link>https://www.rebeccastevick.com/publication/acm-bcb2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/acm-bcb2017/</guid>
+      <guid>https://www.rebeccastevick.com/publication/acm-bcb2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oyster-associated microbial transcriptomes</title>
-      <link>/project/transcriptmining/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/transcriptmining/</guid>
-      <description>&lt;p&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Probiotics in oyster larviculture</title>
-      <link>/project/probiotics/</link>
+      <link>https://www.rebeccastevick.com/project/probiotics/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/probiotics/</guid>
+      <guid>https://www.rebeccastevick.com/project/probiotics/</guid>
       <description>&lt;p&gt;We have partnered with oyster hatcheries across the east coast of the United States to evaulate how probiotic addition affects the hatchery microbiome and oyster health.&lt;/p&gt;
 
 &lt;p&gt;GitHub repository:&lt;/p&gt;
@@ -131,7 +142,7 @@
 
 &lt;p&gt;Related publications:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;/publication/fmicb-2019/&#34;&gt;Stevick, R.J., Sohn, S., Nelson, D.R., Rowley, D.C., Tammi, K., Smolowitz, R., Lundgren, K.M., Post, A.F. and Gomez-Chiarri, M. (2019). Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment. Frontiers in Microbiology 10, 1060. doi:10.3389/FMICB.2019.01060&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.rebeccastevick.com/publication/fmicb-2019/&#34;&gt;Stevick, R.J., Sohn, S., Nelson, D.R., Rowley, D.C., Tammi, K., Smolowitz, R., Lundgren, K.M., Post, A.F. and Gomez-Chiarri, M. (2019). Bacterial Community Dynamics in an Oyster Hatchery in Response to Probiotic Treatment. Frontiers in Microbiology 10, 1060. doi:10.3389/FMICB.2019.01060&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

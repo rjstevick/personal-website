@@ -21,6 +21,14 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  title = "Innovator Speaker Series presenter"
+  organization = "St. Peter's School, Philadelphia, PA"
+  date_start = "2021-11-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   title = "National Ocean Sciences Bowl"
   organization = "CT/RI Regional Competition: Rules Judge"
   date_start = "2016-02-01"
@@ -47,49 +55,49 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2020-05-01"
   description = ""
-  
+
 [[item]]
   title = "Chowder & Marching Student Society"
   organization = "Communications chair and Webmaster"
   date_start = "2016-09-01"
   date_end = "2018-08-01"
   description = ""
-  
+
 [[item]]
   title = "URI-GSO Open House exhibitor and R/V Endeavor tour guide"
   organization = ""
   date_start = "2016-10-01"
   date_end = "2018-10-01"
   description = ""
-  
+
 [[item]]
   title = "Preparing for Graduate School at URI"
   organization = "Graduate student panelist"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   title = "Women in Science Day at Mystic Aquarium"
   organization = "Exhibitor"
   date_start = "2018-08-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   title = "Volvo Ocean Race Ocean Exploration Zone"
   organization = "Exhibitor"
   date_start = "2018-05-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   title = "Society for Women in Marine Science Symposium"
   organization = "Discussion Facilitator"
   date_start = "2018-03-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   title = "Newport International Boat Show"
   organization = "Exhibitor"

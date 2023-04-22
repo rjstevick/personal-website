@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outreachmaterials on Rebecca J. Stevick</title>
-    <link>/outreachmaterials/</link>
+    <link>https://www.rebeccastevick.com/outreachmaterials/</link>
     <description>Recent content in Outreachmaterials on Rebecca J. Stevick</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Rebecca Stevick {year}</copyright>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/outreachmaterials/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.rebeccastevick.com/outreachmaterials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oyster Anatomy Puzzle</title>
-      <link>/outreachmaterials/oysteranatomy/</link>
+      <link>https://www.rebeccastevick.com/outreachmaterials/oysteranatomy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/outreachmaterials/oysteranatomy/</guid>
+      <guid>https://www.rebeccastevick.com/outreachmaterials/oysteranatomy/</guid>
       <description>&lt;p&gt;This image and the pieces were printed on a 3&amp;rsquo;x4&amp;rsquo; vinyl poster and is used at various outreach events.&lt;/p&gt;
 
 &lt;p&gt;Access the materials here: &lt;a href=&#34;files/oysteranatomypuzzle_3636.pdf&#34;&gt;Oyster Anatomy puzzle&lt;/a&gt;&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>R ShinyApp of Oysters in Narragansett Bay</title>
-      <link>/outreachmaterials/shinyapp_nbayoysters/</link>
+      <link>https://www.rebeccastevick.com/outreachmaterials/shinyapp_nbayoysters/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/outreachmaterials/shinyapp_nbayoysters/</guid>
+      <guid>https://www.rebeccastevick.com/outreachmaterials/shinyapp_nbayoysters/</guid>
       <description>&lt;p&gt;Check out our web app that describes the environmental conditions and oyster characteristics in Narragansett Bay: &lt;a href=&#34;https://rjstevick.shinyapps.io/nbay_shinyapp/&#34;&gt;https://rjstevick.shinyapps.io/nbay_shinyapp/&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The source code can be found here: &lt;a href=&#34;https://github.com/rjstevick/NarragansettBayShinyApp/&#34;&gt;https://github.com/rjstevick/NarragansettBayShinyApp/&lt;/a&gt;&lt;/p&gt;
