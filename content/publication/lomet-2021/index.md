@@ -28,7 +28,7 @@ image:
 publication: 'Limnology and Oceanography: Methods'
 publication_types:
 - "2"
-publishDate: "10.1002/lom3.10456"
+publishDate: "2021-08-21T00:00:00Z"
 title: 'A review of how we assess denitrification in oyster habitats and proposed guidelines for future studies'
 url_pdf: 'files/Rayetal2021_lomet.pdf'
 citation: 'Ray, N. E., Hancock, B., Brush, M. J., Colden, A., Cornwell, J., Labrie, M. S., Maguire, T.J., Maxwell, T., Rogers, D., **Stevick, R.J.**, Unruh, A., Kellogg, M.L., Smyth, A.R., and Fulweiler, R. W. (2021). A review of how we assess denitrification in oyster habitats and proposed guidelines for future studies. Limnology and Oceanography: Methods, 19(10), 714-731. doi:10.1002/lom3.10456.

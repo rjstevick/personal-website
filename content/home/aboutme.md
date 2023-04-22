@@ -23,4 +23,4 @@ Rebecca is currently a postdoctoral research associate at the <a href="https://w
 
 Her <a href="publication/dissertation-2019/">doctoral research</a> at the University of Rhode Island <a href="https://web.uri.edu/gso/">Graduate School of Oceanography</a> focused on oyster-associated microbiomes and how they are affected by estuarine acidification, nutrient loading, disease, or probiotics. We used traditional microbiology techniques, bioinformatics, and statistical modelling applied to aquaculture or field experiments to determine how bacteria in oysters contribute to their resilience and ability to provide ecosystem services.
 
-For more information, please explore <a href="#projects">Current Research</a> or see her CV: <a href="files/CV_Stevick.pdf">Stevick_CV (updated Feb 2022)</a>
+For more information, please explore <a href="#projects">Current Research</a> or see her CV: <a href="files/CV_Stevick.pdf">Stevick_CV (updated April 2023)</a>
